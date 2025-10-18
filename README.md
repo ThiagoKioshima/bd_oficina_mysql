@@ -11,7 +11,7 @@ Após a criação do esquema lógico, realize a criação do Script SQL para cri
 - Defina ordenações dos dados com ORDER BY;
 - Condições de filtros aos grupos – HAVING Statement;
 - Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados;
-- 
+
 ## Diretrizes
 Não há um mínimo de queries a serem realizadas;
 Os tópicos supracitados devem estar presentes nas queries;
