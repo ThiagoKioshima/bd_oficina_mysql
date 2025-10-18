@@ -19,4 +19,5 @@ Elabore perguntas que podem ser respondidas pelas consultas
 As cláusulas podem estar presentes em mais de uma query
 O projeto deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto lógico para fornecer o contexto sobre seu esquema lógico apresentado.
 
-
+## MER OFICINA
+![img](https://github.com/ThiagoKioshima/bd_oficina_mysql/blob/main/diagrama_mer_oficina.png)
